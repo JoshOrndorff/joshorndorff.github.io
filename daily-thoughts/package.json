@@ -1,0 +1,12 @@
+{
+  "name": "daily-thoughts",
+  "version": "1.0.0",
+  "description": "retrieve daily thought data from drupal",
+  "main": "download.js",
+  "author": "Joshy",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
