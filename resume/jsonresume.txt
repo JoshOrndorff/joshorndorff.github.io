@@ -1,0 +1,3 @@
+Another idea based on jsonresume
+
+https://dev.to/pcarion/how-to-create-a-resume-with-gatsbyjs-533g
